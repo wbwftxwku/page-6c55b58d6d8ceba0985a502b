@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7d53bafde4615f4c7af1fe78",
+  "owner": "wbwftxwku",
+  "repo": "page-6c55b58d6d8ceba0985a502b",
+  "title": "小鲤鱼",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6c55b58d6d8ceba0985a502b",
+      "a": "小鲤鱼",
+      "b": "稳定全球clash加速器",
+      "entity": "小鲤鱼",
+      "brand": "小鲤鱼",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "00cd578e9d23021e806b8f14b6b2f0dd11ea77207202d407b149d49289ef112a",
+      "content": {
+        "primary_entity": "小鲤鱼",
+        "keyword1": "小鲤鱼",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按系统选择 Clash 客户端，查看订阅导入与设备兼容说明。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选择适合的套餐",
+          "AI_DESCRIPTION": "，小鲤鱼提供多档 Clash 订阅，基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并带有 IPLC 专线优化，团队版每月 1000GB 支持 20 台设备。可在 Windows、macOS、Android、iOS 等系统按客户端文档完成订阅配置。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度选择。",
+          "AI_FEATURES_TITLE": "套餐与适配要点",
+          "AI_FEATURE_TEXT_1": "基础版适合个人轻量使用，旗舰版覆盖流媒体与游戏，团队版面向多设备与高流量需求。",
+          "AI_FEATURE_TEXT_2": "每档套餐明确同时在线设备数量，按手机、电脑与平板数量选择对应档位。",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付按基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年计。",
+          "AI_FEATURE_TITLE_1": "按场景选套餐",
+          "AI_FEATURE_TITLE_2": "按设备定档位",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_GUIDE_INTRO": "选择服务、核对适配要求、依照客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "小鲤鱼围绕 Clash 订阅提供多档加速方案，按设备数量与流量需求选择基础版、旗舰版或团队版，并在常用客户端导入订阅后使用。",
+          "AI_HERO_SUBTITLE": "小鲤鱼 Clash 加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "按设备数量匹配",
+          "AI_HIGHLIGHT_3": "支持月付与年付",
+          "AI_PLANS_INTRO": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的客户端与同时在线设备数量，确认系统版本满足要求。",
+          "AI_STEP_TEXT_3": "按照对应 Clash 客户端文档填写订阅地址，完成节点加载与规则配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "小鲤鱼 Clash 加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量与付费周期。",
+          "AI_FAQ_QUESTION_1": "小鲤鱼三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在流量、设备数量和节点类型。基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并含IPLC专线；团队版每月1000GB、20台设备。",
+          "AI_FAQ_QUESTION_2": "订阅如何导入到客户端？",
+          "AI_FAQ_ANSWER_2": "先在对应设备上安装合适的客户端，再从订阅信息中获取配置链接或二维码，按照客户端文档的导入说明完成添加即可。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量超了会怎样？",
+          "AI_FAQ_ANSWER_3": "各套餐对同时在线设备数有明确上限，超出后新增设备可能无法连接。建议按常用设备数量选择基础版、旗舰版或团队版。",
+          "AI_FAQ_QUESTION_4": "年付和月付怎么选更划算？",
+          "AI_FAQ_ANSWER_4": "基础版年付150元，旗舰版年付350元，团队版年付850元。若长期使用，年付方案的月均费用低于按月支付。",
+          "AI_FAQ_QUESTION_5": "IPLC专线适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版包含IPLC专线节点，对延迟敏感的游戏和流媒体场景更友好，普通浏览与下载使用基础线路即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aaopbjt.cn",
+    "host": "aaopbjt.cn"
+  },
+  "file_hashes": {
+    "index.html": "770bf9ef0f34323460fa58259d1b222897cd4dcff15d14f957c214be6f95e056",
+    "sitemap.xml": "3315e8425b0c3fd8c1a623630945f4311feefddddb5823d746db6a8feccc5a94",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c1c85fd62d6c4011239186053c171f8cad1754a285f8325eb8fcbdd5352ce7c6",
+    "robots.txt": "ff0c50c93f59b8f1c3b55708e550208215d14f7c7911474e392dc0c4cbe9e252",
+    "9c8aa7fdd55b8a16d5662e5de2e9a0b5.txt": "8f7294c7f42a165998b8358c97b13f82ac83e014b1d599827e219712e274ebc8"
+  },
+  "revision": "dadb49bb51ab6b744bac26a6e1c6efef3c5dfc7551dac1eef3c89f8b541a764c"
+}
